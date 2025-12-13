@@ -3,7 +3,7 @@
 - 🎓 I’m currently studying at university
 - 🖥️ I’m currently learning Artificial Intelligence 
 
-##### Skills
+#### Skills
 
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -14,5 +14,5 @@
 <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
 
-##### Connect with me
+#### Connect with me
 ![https://www.kaggle.com/faqihuddinalghiffary](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
