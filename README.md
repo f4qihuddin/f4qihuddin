@@ -18,4 +18,13 @@
 
 
 #### Connect with me
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/faqihuddinalghiffary)
+
+<p align="left">
+  <a href="https://www.kaggle.com/faqihuddinalghiffary">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
+  </a>
+  <a href="www.linkedin.com/in/faqihuddin-al-ghiffary-4552aa248">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
