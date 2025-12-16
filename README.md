@@ -38,7 +38,7 @@
 </p>
 
 #### 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=c,css,html,mysql,py,php,sklearn)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,css,html,mysql,py,php,java,sklearn)](https://skillicons.dev)
 
 #### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=f4qihuddin&theme=cobalt2&hide_border=false&hide_rank=true&include_all_commits=false&count_private=false)<br/>
