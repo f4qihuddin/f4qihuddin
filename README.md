@@ -1,13 +1,12 @@
 
 <!-- ![Gambar Banner Profil Github](/img/github-header-banner.png)
 
-- 🎓 I’m currently studying at university
-- 🖥️ I’m currently learning Artificial Intelligence 
-
+- 🔭 I’m currently working on Generative AI project and course
+- 🤝 I’m looking for internship opportunity
+- 🌱 I’m currently learning Artificial Intelligence in University
 #### Skills
 
 [![My Skills](https://skillicons.dev/icons?i=c,css,html,mysql,py,php,sklearn)](https://skillicons.dev)
-
 
 #### Connect with me
 
@@ -24,7 +23,7 @@
 [![Faqihuddin Al-Ghiffray's GitHub stats](https://github-readme-stats.vercel.app/api?username=f4qihuddin&show_icons=true&theme=cobalt2)](https://github.com/anuraghazra/github-readme-stats) -->
 
 # 💫 About Me:
-![Gambar Banner Profil Github](/img/github-header-banner.png)<br><br>- 🎓 I’m currently studying at university<br>- 🖥️ I’m currently learning Artificial Intelligence 
+![Gambar Banner Profil Github](/img/github-header-banner.png)<br><br>🔭 I’m currently working on Generative AI project and course<br>🤝 I’m looking for internship opportunity<br>🌱 I’m currently learning Artificial Intelligence in University
 
 
 #### 🌐 Socials:
@@ -37,8 +36,11 @@
   </a>
 </p>
 
-#### 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=c,css,html,mysql,py,php,java,sklearn)](https://skillicons.dev)
+#### 💻 Skills:
+##### Artificial Intelligence
+[![My Skills](https://skillicons.dev/icons?i=py,sklearn,tensorflow,prometheus,grafana,docker)](https://skillicons.dev)
+##### Back-End & Front-End
+[![My Skills](https://skillicons.dev/icons?i=react,js,java,php,html,css,c,mysql)](https://skillicons.dev)
 
 #### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=f4qihuddin&theme=cobalt2&hide_border=false&hide_rank=true&include_all_commits=false&count_private=false)<br/>
